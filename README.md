@@ -1,7 +1,10 @@
 # American Sign Language Recognition using CNN and OpenCV
 
 
-Recognizing American Sign Language Symbols using CNN and OpenCV. Built with Jupyter Notebook. Accuracy ~ 87%
+Recognizing American Sign Language Symbols using CNN and OpenCV. Built with Jupyter Notebook. 
+
+Accuracy ~ 91%
+
 Run with ASL_recog.ipynb
 
 # Dataset:
