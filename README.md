@@ -16,3 +16,5 @@ https://www.kaggle.com/datamunge/sign-language-mnist
 * Keras
 * Tensorflow
 * OpenCV
+
+![American Sign Language Symbols](https://miro.medium.com/max/1000/1*XrbqBLMR1W3N8mIQCPzPbw.png)
